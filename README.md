@@ -1,4 +1,6 @@
 ## Hi there 👋
+## Tech Stack:
+C C++ Python HTMML CSS JavaScript Pandas NumPy scikit-learn TensorFlow
 
 <!--
 **Santanu-Sahoo-02/Santanu-Sahoo-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

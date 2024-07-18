@@ -1,9 +1,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3800&lines=Hi+There!+👋;+I'm+Santanu+Sahoo.;" />
 </h1>
-
-<h2 align="center">Welcome to my Github Profile</h2>
-<br/>
+<h1 align="center">Welcome to my Github Profile</h1>
 
 <div class="about-me">
   <h2>About Me</h2>
@@ -27,11 +25,11 @@
   </ul>
   
   <p>
-    Let's collaborate and push the boundaries of human-machine intelligence together! <span class="emoji">🚀️</span>
+    Discovering new frontiers in human-machine intelligence! <span class="emoji">🚀️</span>
   </p>
 </div>
-
-<h3>Connect with me:</h3>
+<hr/>
+<h3>🌐 Connect with me:</h3>
 <div align="center"> 
  
   <a href="https://www.linkedin.com/in/santanu-sahoo-406a3b274/" target="_blank">

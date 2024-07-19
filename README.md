@@ -1,4 +1,4 @@
-<h1 align="center">
+![image](https://github.com/user-attachments/assets/8308a5da-ef0c-4765-a205-d0b9da06b91f)<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3800&lines=Hi+There!+👋;+I'm+Santanu+Sahoo.;" />
 </h1>
 <h1 align="center">Welcome to my Github Profile</h1>
@@ -32,7 +32,7 @@
 <h3>🌐 Connect with me:</h3>
 <div align="center"> 
  
-  <a href="https://www.linkedin.com/in/santanu-sahoo-406a3b274/" target="_blank">
+  <a href="https://www.linkedin.com/in/santanusahoo/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://www.instagram.com/santanu_s_21/" target="_blank">

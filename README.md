@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8308a5da-ef0c-4765-a205-d0b9da06b91f)<h1 align="center">
+<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3800&lines=Hi+There!+👋;+I'm+Santanu+Sahoo.;" />
 </h1>
 <h1 align="center">Welcome to my Github Profile</h1>
